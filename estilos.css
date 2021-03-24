@@ -181,10 +181,6 @@ a:active {
 	color: #FFF; /*blanco*/
 }
 
-a:hover {
-	color: #3B83BD; /*azul claro*/
-}
-
 .lista {
 	padding-left: 2em;
 }
