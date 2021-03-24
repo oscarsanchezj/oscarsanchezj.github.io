@@ -2,7 +2,7 @@ body {
 	font-family: verdana, arial, helvetica, sans-serif;
 	font-size: 0.7em;
 	color: #555;
-	line-height: 3;
+	line-height: 1.5;
 }
 
 #contenido {
@@ -162,7 +162,7 @@ body {
 ************************************************/
 #garantias {
 	text-align: left;
-	line-height: 125%;
+	line-height: 1.5;
 }	
 
 a {
