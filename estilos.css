@@ -176,8 +176,13 @@ a:visited {
 	color: #572364; /*morado*/
 }
 
+a:active {
+	background: #0000FF; /*azul*/
+	color: #FFFFFF; /*blanco*/
+}
+
 a:hover {
-	color: #3B83BD ; /*azul claro*/
+	color: #3B83BD; /*azul claro*/
 }
 
 .lista {
